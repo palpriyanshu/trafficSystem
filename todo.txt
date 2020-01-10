@@ -1,0 +1,4 @@
+✔︎ * Place a static car on the screen
+✔︎   * The car is composed of blocks 
+
+✔︎ * Create a simple page that will host the game
