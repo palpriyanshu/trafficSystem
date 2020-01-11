@@ -2,3 +2,5 @@
 ✔︎   * The car is composed of blocks 
 
 ✔︎ * Create a simple page that will host the game
+
+✔︎ * create a movable car (move in one direction)
