@@ -22,15 +22,14 @@ h1 {
 
 .red {
   background-color: red;
+  filter: grayscale(50%);
 }
 
 .yellow {
   background-color: yellow;
+  filter: grayscale(50%);
 }
 .green {
   background-color: green;
-}
-
-.glow {
-  background-color: blue;
+  filter: grayscale(50%);
 }
